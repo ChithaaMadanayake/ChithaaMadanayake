@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a Computer Science student, and I love coding,
 - 🔒 Security, DevOps
 
 ## Projects
-- **[Agent X]**: A mobile app designed for tracking camerass - On going.
+- **Agent X**: A mobile app designed for tracking cameras - Ongoing.
 - **[WalletWatch](https://wallet-watch.github.io/)**: Budgeting app built using React Native.
 
 ## Connect with Me
