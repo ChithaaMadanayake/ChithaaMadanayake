@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Chithaa 👋
 
-<!--
-**ChithaaMadanayake/ChithaaMadanayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Computer Science student, and I love coding, designing apps, and building innovative projects.
 
-Here are some ideas to get you started:
+## Skills
+- 💻 Python, Java, JavaScript
+- ⚙️ React, Node.js, Express
+- 📱 React Native, Flutter
+- 🔒 Security, DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[Agent X]**: A mobile app designed for tracking camerass - On going.
+- **[WalletWatch](https://wallet-watch.github.io/)**: Budgeting app built using React Native.
+
+## Connect with Me
+- 📫 Email: chithaa.20244018@iit.ac.lk
+- 💼 [LinkedIn](www.linkedin.com/in/chithaa-mithmaa-madanayake-a3814a293)
