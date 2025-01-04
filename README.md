@@ -1,3 +1,4 @@
+![GitHub](https://img.shields.io/badge/GitHub-green?style=for-the-badge&logo=github)
 # Hi, I'm Chithaa 👋
 
 Welcome to my GitHub profile! I'm a Computer Science student, and I love coding, designing apps, and building innovative projects.
