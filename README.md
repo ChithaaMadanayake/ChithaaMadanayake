@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/badge/Welcome%20to%20My%20Profile!-green?style=for-the-badge&logo=github)
+[![GitHub](https://img.shields.io/badge/Welcome%20to%20My%20Profile!-green?style=for-the-badge&logo=github)](https://github.com/ChithaaMadanayake)
 # Hi, I'm Chithaa 👋
 
 Welcome to my GitHub profile! I'm a Computer Science student, and I love coding, designing apps, and building innovative projects.
