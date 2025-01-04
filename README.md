@@ -14,4 +14,4 @@ Welcome to my GitHub profile! I'm a Computer Science student, and I love coding,
 
 ## Connect with Me
 - 📫 Email: chithaa.20244018@iit.ac.lk
-- 💼 [LinkedIn](www.linkedin.com/in/chithaa-mithmaa-madanayake-a3814a293)
+- 💼 [LinkedIn] (www.linkedin.com/in/chithaa-mithmaa-madanayake-a3814a293)
