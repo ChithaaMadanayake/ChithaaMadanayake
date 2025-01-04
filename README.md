@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/badge/GitHub-green?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/Welcome%20to%20My%20Profile!-green?style=for-the-badge&logo=github)
 # Hi, I'm Chithaa 👋
 
 Welcome to my GitHub profile! I'm a Computer Science student, and I love coding, designing apps, and building innovative projects.
@@ -15,4 +15,4 @@ Welcome to my GitHub profile! I'm a Computer Science student, and I love coding,
 
 ## Connect with Me
 - 📫 Email: chithaa.20244018@iit.ac.lk
-- 💼 [LinkedIn] (www.linkedin.com/in/chithaa-mithmaa-madanayake-a3814a293)
+- 💼 [LinkedIn](www.linkedin.com/in/chithaa-mithmaa-madanayake-a3814a293)
