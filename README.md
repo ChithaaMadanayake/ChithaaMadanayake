@@ -3,11 +3,11 @@
 
 <div align="center">
   
-  # 👋 Hi, I'm Chithaa!
-  🌸 *An explorer in code, defender in cyberspace, and artist at heart.*
+  # 👋 Hello, it's Chithaa here!
+  🚀 *A journey through code, a defender of cyberspace, and an artist at heart.*
   
   🎓 **BSc. (Hons) Computer Science Undergraduate**  
-  🛡️ **Cybersecurity Enthusiast** | 💡 *Innovative Thinker* | 🎨 *UI/UX Designer*
+  🛡️ **Cybersecurity Enthusiast** | 💡 *Problem Solver* | 💻 *Tech Innovator*
   
   ---
   
@@ -65,7 +65,8 @@
 ## 🌐 Connect with Me
 
 📧 **Email**: [chithaa.20244018@iit.ac.lk](mailto:chithaa.20244018@iit.ac.lk)  
-💼 **LinkedIn**: [linkedin.com/in/chithaa-mithmaa-madanayake-a3814a293](https://www.linkedin.com/in/chithaa-mithmaa-madanayake-a3814a293)
+💼 **LinkedIn**: [linkedin.com/in/chithaa-mithmaa-madanayake-a3814a293](https://www.linkedin.com/in/chithaa-mithmaa-madanayake-a3814a293)  
+🔐 **TryHackMe**: [TryHackMe Profile](https://tryhackme.com/p/here..cta)
 
 ---
 
