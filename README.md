@@ -20,25 +20,33 @@
 ## 🚀 Skills & Tools
 
 ### 💻 Programming
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<div>
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+</div>
 
 ### 🌐 Frontend & App Dev
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+<div>
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+</div>
 
 ### 🛠️ Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+<div>
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+</div>
 
 ### 🔐 Cybersecurity & DevOps
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FE4C40?style=flat&logo=cyber&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
-![DevOps](https://img.shields.io/badge/DevOps-blue?style=flat&logo=devops&logoColor=white)
+<div>
+  ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FE4C40?style=flat&logo=cyber&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![DevOps](https://img.shields.io/badge/DevOps-blue?style=flat&logo=devops&logoColor=white)
+</div>
 
 ---
 
