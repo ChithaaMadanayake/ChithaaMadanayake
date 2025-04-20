@@ -43,18 +43,19 @@
 
 ## 📱 Featured Projects
 
-- 🕵️‍♀️ **Agent X** – Mobile app to detect hidden cameras and ensure user safety.
-- - 🎧 **[Meloomood]([https://chithaamadanayake.github.io/meloomood/](https://github.com/ChithaaMadanayake/MelooMood))** – Emotional AI-based music recommender that syncs music to your feelings.  
+- 🕵️‍♀️ **Agent X** – Mobile app to detect hidden cameras and ensure user safety.  
 - 💰 **[WalletWatch](https://wallet-watch.github.io/)** – A smart budgeting app built with React Native.  
+- 🎧 **[Meloomood](https://github.com/ChithaaMadanayake/MelooMood)** – Emotional AI-based music recommender that syncs music to your mood.  
+- 💼 **[Supra Marketing Website](https://github.com/ChithaaMadanayake/Supra_Marketing_Web)** – A modern, responsive website made for a marketing agency using HTML, CSS & creative visuals.  
 - 🧪 **[Viruses](https://github.com/ChithaaMadanayake/viruses)** – A playful set of CMD scripts for learning, experimenting, and fun.
 
 ---
 
 ## 💡 What I Love
 
-- 🧠 Building user-first applications
-- 🔍 Exploring cybersecurity vulnerabilities & ethical hacking
-- 🎨 Designing minimal yet powerful user experiences
+- 🧠 Building user-first applications  
+- 🔍 Exploring cybersecurity vulnerabilities & ethical hacking  
+- 🎨 Designing minimal yet powerful user experiences  
 - 🌙 Night owl hacking sessions + midnight music + creativity
 
 ---
@@ -62,8 +63,7 @@
 ## 🌐 Connect with Me
 
 📧 **Email**: [chithaa.20244018@iit.ac.lk](mailto:chithaa.20244018@iit.ac.lk)  
-💼 **LinkedIn**: [linkedin.com/in/chithaa-mithmaa-madanayake-a3814a293](https://www.linkedin.com/in/chithaa-mithmaa-madanayake-a3814a293)  
-🎬 **TikTok / YouTube**: Coming soon 🔥
+💼 **LinkedIn**: [linkedin.com/in/chithaa-mithmaa-madanayake-a3814a293](https://www.linkedin.com/in/chithaa-mithmaa-madanayake-a3814a293)
 
 ---
 
