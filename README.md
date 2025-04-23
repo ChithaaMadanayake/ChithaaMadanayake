@@ -1,79 +1,85 @@
-[![Welcome](https://img.shields.io/badge/Hey%20there!%20I'm%20Chithaa%20𓆩%F0%9F%8C%9F𓆪-brightgreen?style=for-the-badge)](https://github.com/ChithaaMadanayake)
-![Profile Views](https://komarev.com/ghpvc/?username=ChithaaMadanayake&color=blueviolet&style=flat-square)
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&height=45&lines=Hi+there!+I'm+Chithaa+%E2%9C%8B;Cybersecurity+Enthusiast+%F0%9F%94%95;Frontend+Dev+%7C+UI%2FUX+Designer+%7C+Creative+Mind" alt="Typing SVG" />
+</p>
 
 <div align="center">
 
-# 💫 Chithaa Madanayake  
-**Tech Explorer | Cyber Defender | Visual Storyteller**
-
-🎓 BSc. (Hons) in Computer Science  
-🌐 Web & Frontend Developer | 🛡️ Cybersecurity Enthusiast  
-🎨 UI/UX Designer | 🧠 Always Learning  
-
-[Portfolio Website](https://your-portfolio-link.com) • [LinkedIn](https://www.linkedin.com/in/chithaa-mithmaa-madanayake-a3814a293) • [TryHackMe](https://tryhackme.com/p/here..cta)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CACA&center=true&vCenter=true&width=435&lines=Crafting+experiences+through+code.;Designing+for+humans+%E2%9D%A4;Staying+curious+and+creative." alt="Typing SVG" />
+# ✦ CHITHAA MADANAYAKE ✦  
+**ᴡᴇʙ ᴅᴇᴠ • ᴄʏʙᴇʀ ꜱᴇᴄᴜʀɪᴛʏ • ᴅᴇꜱɪɢɴ**
 
 </div>
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🌌 About Me  
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-
-### 🛠 Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-### 🔐 Cybersecurity & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+🔹 Computer Science undergraduate  
+🔹 Passionate about **frontend magic** and **ethical hacking**  
+🔹 Building apps that feel human and safe – one pixel and one scan at a time  
+🔹 Self-taught creative thinker with a dash of caffeine and late-night lo-fi 🌙  
+🔹 I don’t believe in limits — I debug and dream.
 
 ---
 
-## 🚀 Projects Spotlight
+## 💻 Tech Arsenal
 
-- 🔐 [**Agent X**](https://github.com/ChithaaMadanayake/AgentX) – Safety-first mobile app to detect hidden surveillance devices.
-- 💸 [**WalletWatch**](https://wallet-watch.github.io/) – A smart budgeting app for financial mindfulness.
-- 🎵 [**Meloomood**](https://github.com/ChithaaMadanayake/MelooMood) – Music meets emotion: AI-generated playlists based on your mood.
-- 📈 [**Supra Marketing Site**](https://github.com/ChithaaMadanayake/Supra_Marketing_Web) – A fully responsive marketing agency site.
-- 🧪 [**Viruses**](https://github.com/ChithaaMadanayake/viruses) – Fun CMD scripts for curious minds and sandbox exploration.
-
----
-
-## 💖 Fun Facts & Passions
-
-- 🌙 Night owl who codes to lo-fi and chill beats.
-- 🎨 Passionate about minimal design and powerful UX.
-- ⚔️ Always curious to learn more in cybersecurity & ethical hacking.
-- 🧩 Loves solving problems, both in code and life.
+| Area | Tools |
+|------|-------|
+| **Languages** | `Python`, `Java`, `JavaScript`, `C#` |
+| **Frontend** | `React`, `React Native`, `HTML5`, `CSS3`, `Tailwind`, `Figma` |
+| **Backend & DB** | `Node.js`, `Firebase`, `Supabase`, `MongoDB` |
+| **DevOps & Tools** | `Git`, `Linux`, `Postman`, `VSCode`, `Netlify`, `GitHub Actions` |
+| **Cybersecurity** | `TryHackMe`, `Kali Linux`, `Wireshark`, `nmap`, `Burp Suite` |
 
 ---
 
-## 📬 Let’s Connect
+## 🚀 Highlight Projects
 
-- 📧 Email: [chithaa.20244018@iit.ac.lk](mailto:chithaa.20244018@iit.ac.lk)  
-- 💼 LinkedIn: [@Chithaa](https://www.linkedin.com/in/chithaa-mithmaa-madanayake-a3814a293)
-- 🔒 TryHackMe: [here..cta](https://tryhackme.com/p/here..cta)
+- 👁‍🗨 **[Agent X](https://github.com/ChithaaMadanayake/AgentX)** – Personal safety scanner to detect hidden surveillance. *(React Native + AI + Firebase)*
+- 💰 **[WalletWatch](https://wallet-watch.github.io/)** – Budgeting redefined for mindful living.
+- 🎵 **[MelooMood](https://github.com/ChithaaMadanayake/MelooMood)** – Emotional playlist generator powered by mood-detection.
+- 💼 **[Supra Marketing Website](https://github.com/ChithaaMadanayake/Supra_Marketing_Web)** – Responsive, modern site for a creative agency.
+- 🧪 **[Fun CMD Viruses](https://github.com/ChithaaMadanayake/viruses)** – Harmless script experiments for learning.
 
 ---
+
+## 🖼️ Design Showcase
 
 <div align="center">
-  
-✨ *"Code it till you own it. Dream big, debug smart."* ✨  
-<br/>  
-![Thanks](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChithaaMadanayake&layout=compact&theme=tokyonight" />
 </div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChithaaMadanayake&show_icons=true&theme=tokyonight" width="47%">
+  <img src="https://streak-stats.demolab.com?user=ChithaaMadanayake&theme=tokyonight&hide_border=true" width="47%">
+</div>
+
+---
+
+## 🧩 Fun Facts
+
+✨ I’m:
+- A mix of logic & aesthetic  
+- Into ethical hacking and defending the web  
+- Drawing digital art and UI on weekends  
+
+---
+
+## 🔗 Let’s Collab or Connect!
+
+- 💬 **Ask Me About:** Web Dev, Cybersecurity, Design, Life  
+- 📧 [chithaa.20244018@iit.ac.lk](mailto:chithaa.20244018@iit.ac.lk)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chithaa-mithmaa-madanayake-a3814a293)  
+- 🔐 [TryHackMe](https://tryhackme.com/p/here..cta)  
+- 🌐 [My Portfolio](https://your-portfolio-link.com)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0845&height=120&section=footer"/>
+</p>
