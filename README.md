@@ -1,7 +1,10 @@
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&height=45&lines=Hi+there!+I'm+Chithaa+%E2%9C%8B;Cybersecurity+Enthusiast+%F0%9F%94%95;Frontend+Dev+%7C+UI%2FUX+Designer+%7C+Creative+Mind" alt="Typing SVG" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=ChithaaMadanayake&color=blueviolet" alt="Profile views"/>
 </p>
+
 
 <div align="center">
 
