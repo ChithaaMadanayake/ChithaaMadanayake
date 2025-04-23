@@ -41,7 +41,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔐 [**Agent X**] | Personal safety app that detects hidden surveillance – using AI + React Native |
+| 🔐 **Agent X** | Personal safety app that detects hidden surveillance – using AI + React Native |
 | 💸 [**WalletWatch**](https://wallet-watch.github.io/) | Modern budgeting app with a sleek, intuitive UI |
 | 🎶 [**MelooMood**](https://github.com/ChithaaMadanayake/MelooMood) | Mood-based playlist generator using emotion detection |
 | 🖥️ [**Supra Marketing Web**](https://github.com/ChithaaMadanayake/Supra_Marketing_Web) | Business-ready responsive marketing website |
