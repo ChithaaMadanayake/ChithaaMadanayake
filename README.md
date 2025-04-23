@@ -1,78 +1,79 @@
-[![Welcome](https://img.shields.io/badge/Welcome%20to%20My%20Profile!-brightgreen?style=for-the-badge&logo=github)](https://github.com/ChithaaMadanayake)
+[![Welcome](https://img.shields.io/badge/Hey%20there!%20I'm%20Chithaa%20𓆩%F0%9F%8C%9F𓆪-brightgreen?style=for-the-badge)](https://github.com/ChithaaMadanayake)
 ![Profile Views](https://komarev.com/ghpvc/?username=ChithaaMadanayake&color=blueviolet&style=flat-square)
 
 <div align="center">
 
-# 👋 Hey there, I'm **Chithaa**  
-🚀 *Code weaver, cyberspace guardian & visual storyteller*
+# 💫 Chithaa Madanayake  
+**Tech Explorer | Cyber Defender | Visual Storyteller**
 
-🎓 **BSc. (Hons) Computer Science Undergraduate**  
-🛡️ Cybersecurity Enthusiast | 💻 Developer | 🎨 Creative Thinker
+🎓 BSc. (Hons) in Computer Science  
+🌐 Web & Frontend Developer | 🛡️ Cybersecurity Enthusiast  
+🎨 UI/UX Designer | 🧠 Always Learning  
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+digital+playground!;Let’s+build+and+innovate+together.;Coding+with+purpose+and+passion!" width="100%"/>
+[Portfolio Website](https://your-portfolio-link.com) • [LinkedIn](https://www.linkedin.com/in/chithaa-mithmaa-madanayake-a3814a293) • [TryHackMe](https://tryhackme.com/p/here..cta)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CACA&center=true&vCenter=true&width=435&lines=Crafting+experiences+through+code.;Designing+for+humans+%E2%9D%A4;Staying+curious+and+creative." alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🚀 Skills & Tools
+## 🔧 Tech Stack & Tools
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 
-### 🌐 Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 ### 🛠 Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-### 🔐 Cybersecurity & DevOps
+### 🔐 Cybersecurity & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![DevOps](https://img.shields.io/badge/DevOps-blue?style=flat&logo=devops&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FE4C40?style=flat&logo=cyber&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 🧩 Featured Projects
+## 🚀 Projects Spotlight
 
-| Project | Description |
-|--------|-------------|
-| 🕵️‍♀️ **Agent X** | Hidden camera detector to help women feel safer in unknown spaces |
-| 💰 [**WalletWatch**](https://wallet-watch.github.io/) | Smart budgeting app built with React Native |
-| 🎧 [**MelooMood**](https://github.com/ChithaaMadanayake/MelooMood) | Mood-based music recommender using AI |
-| 💼 [**Supra Marketing Web**](https://github.com/ChithaaMadanayake/Supra_Marketing_Web) | A sleek, responsive marketing website with eye-catching UI |
-| 🧪 [**Viruses**](https://github.com/ChithaaMadanayake/viruses) | Fun & safe CMD scripts for experimentation and learning |
+- 🔐 [**Agent X**](https://github.com/ChithaaMadanayake/AgentX) – Safety-first mobile app to detect hidden surveillance devices.
+- 💸 [**WalletWatch**](https://wallet-watch.github.io/) – A smart budgeting app for financial mindfulness.
+- 🎵 [**Meloomood**](https://github.com/ChithaaMadanayake/MelooMood) – Music meets emotion: AI-generated playlists based on your mood.
+- 📈 [**Supra Marketing Site**](https://github.com/ChithaaMadanayake/Supra_Marketing_Web) – A fully responsive marketing agency site.
+- 🧪 [**Viruses**](https://github.com/ChithaaMadanayake/viruses) – Fun CMD scripts for curious minds and sandbox exploration.
 
 ---
 
-## 💡 What Drives Me
+## 💖 Fun Facts & Passions
 
-- 🧠 Designing human-first digital experiences  
-- 🔍 Exploring vulnerabilities & ethical hacking  
-- 🎨 Turning ideas into clean, powerful visuals  
-- 🌙 Night owl sessions packed with code, music, and creation
+- 🌙 Night owl who codes to lo-fi and chill beats.
+- 🎨 Passionate about minimal design and powerful UX.
+- ⚔️ Always curious to learn more in cybersecurity & ethical hacking.
+- 🧩 Loves solving problems, both in code and life.
 
 ---
 
-## 🌐 Let's Connect
+## 📬 Let’s Connect
 
-📧 **Email**: [chithaa.20244018@iit.ac.lk](mailto:chithaa.20244018@iit.ac.lk)  
-💼 **LinkedIn**: [linkedin.com/in/chithaa-mithmaa-madanayake-a3814a293](https://www.linkedin.com/in/chithaa-mithmaa-madanayake-a3814a293)  
-🔐 **TryHackMe**: [tryhackme.com/p/here..cta](https://tryhackme.com/p/here..cta)
+- 📧 Email: [chithaa.20244018@iit.ac.lk](mailto:chithaa.20244018@iit.ac.lk)  
+- 💼 LinkedIn: [@Chithaa](https://www.linkedin.com/in/chithaa-mithmaa-madanayake-a3814a293)
+- 🔒 TryHackMe: [here..cta](https://tryhackme.com/p/here..cta)
 
 ---
 
 <div align="center">
-
-✨ *"Every click, every bug, every feature – it’s all a step toward mastering the craft."*  
-<br>  
-![Thanks for stopping by!](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+  
+✨ *"Code it till you own it. Dream big, debug smart."* ✨  
+<br/>  
+![Thanks](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer)
 
 </div>
