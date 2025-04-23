@@ -22,25 +22,35 @@
 
 ---
 
-## 💻 Tech Arsenal
+## 💻 Tech Arsenal  
 
-| Area | Tools |
-|------|-------|
-| **Languages** | `Python`, `Java`, `JavaScript`, `C#` |
-| **Frontend** | `React`, `React Native`, `HTML5`, `CSS3`, `Tailwind`, `Figma` |
-| **Backend & DB** | `Node.js`, `Firebase`, `Supabase`, `MongoDB` |
-| **DevOps & Tools** | `Git`, `Linux`, `Postman`, `VSCode`, `Netlify`, `GitHub Actions` |
-| **Cybersecurity** | `TryHackMe`, `Kali Linux`, `Wireshark`, `nmap`, `Burp Suite` |
+| 🛠️ Area | 🚀 Tools & Tech |
+|--------|-----------------|
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) |
+| **Backend & DB** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **Tools & DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white) |
+| **Cybersecurity** | ![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?logo=tryhackme&logoColor=red) ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-268BEE?logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) ![nmap](https://img.shields.io/badge/-Nmap-000000?logo=nmap&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-F47B20?logo=burpsuite&logoColor=white) |
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Highlight Projects  
 
-- 👁‍🗨 **[Agent X](https://github.com/ChithaaMadanayake/AgentX)** – Personal safety scanner to detect hidden surveillance. *(React Native + AI + Firebase)*
-- 💰 **[WalletWatch](https://wallet-watch.github.io/)** – Budgeting redefined for mindful living.
-- 🎵 **[MelooMood](https://github.com/ChithaaMadanayake/MelooMood)** – Emotional playlist generator powered by mood-detection.
-- 💼 **[Supra Marketing Website](https://github.com/ChithaaMadanayake/Supra_Marketing_Web)** – Responsive, modern site for a creative agency.
-- 🧪 **[Fun CMD Viruses](https://github.com/ChithaaMadanayake/viruses)** – Harmless script experiments for learning.
+| Project | Description |
+|--------|-------------|
+| 🔐 [**Agent X**](https://github.com/ChithaaMadanayake/AgentX) | Personal safety app that detects hidden surveillance – using AI + React Native |
+| 💸 [**WalletWatch**](https://wallet-watch.github.io/) | Modern budgeting app with a sleek, intuitive UI |
+| 🎶 [**MelooMood**](https://github.com/ChithaaMadanayake/MelooMood) | Mood-based playlist generator using emotion detection |
+| 🖥️ [**Supra Marketing Web**](https://github.com/ChithaaMadanayake/Supra_Marketing_Web) | Business-ready responsive marketing website |
+| 🧪 [**CMD Virus Lab**](https://github.com/ChithaaMadanayake/viruses) | For fun & learning: safe CMD script experiments |
+
+---
+
+## 🎨 UI/UX & Design Showcase  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChithaaMadanayake&layout=compact&theme=tokyonight" />
+</div>
 
 ---
 
