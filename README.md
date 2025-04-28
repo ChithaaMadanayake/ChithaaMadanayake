@@ -78,7 +78,7 @@
 - 📧 [chithaa.20244018@iit.ac.lk](mailto:chithaa.20244018@iit.ac.lk)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chithaa-mithmaa-madanayake-a3814a293)  
 - 🔐 [TryHackMe](https://tryhackme.com/p/here..cta)  
-- 🌐 [My Portfolio](https://your-portfolio-link.com)
+- 🌐 [My Portfolio](https://chithaamadanayake.vercel.app/)
 
 ---
 
