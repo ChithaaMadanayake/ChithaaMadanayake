@@ -38,7 +38,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔐 [**Agent X**](https://agent--x.vercel.app/) | Personal safety app that detects hidden surveillance – using AI + React Native |
+| 🔐 [**Agent X**](https://agent-x-zeta.vercel.app/) | Personal safety app that detects hidden surveillance – using AI + React Native |
 | 💸 [**WalletWatch**](https://www.linkedin.com/feed/update/urn:li:activity:7214636530487709696/) | Modern budgeting app with a sleek, intuitive UI |
 | 🎶 [**MelooMood**](https://drive.google.com/file/d/1V7KVcRNqub8l880Rp_IryKSuv-kllus-/view) | Mood-based playlist generator using emotion detection |
 | 🖥️ [**Supra Marketing Web**](https://www.linkedin.com/feed/update/urn:li:activity:7321896235160735744/) | Business-ready responsive marketing website |
