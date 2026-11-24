@@ -21,7 +21,6 @@
 [  OK  ] Loading identity .............. Chithaa Madanayake
 [  OK  ] Loading location .............. Sri Lanka 🇱🇰
 [  OK  ] Loading roles ................. Frontend Dev · UI/UX Designer · Ethical Hacker
-[  OK  ] Loading fuel .................. Caffeine ☕ + late-night lo-fi 🌙
 [  OK  ] Loading mindset ............... Self-taught · Curious · Unstoppable
 [  OK  ] Loading mission ............... "One pixel and one scan at a time."
 [ WARN ] Limits not found .............. skipping...
