@@ -290,7 +290,7 @@ For fun and learning: safe command-line script experiments.
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=1500&color=FF2E97&center=true&vCenter=true&width=700&lines=PRESS+START+TO+COLLABORATE;Let's+build+something+legendary+together+%F0%9F%9A%80;Open+to+collabs%2C+internships+%26+crazy+ideas" alt="footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=1500&color=FF2E97&center=true&vCenter=true&width=700&lines=PRESS+START+TO+COLLABORATE;Let's+build+something+legendary+together+%F0%9F%9A%80;Open+to+collabs%2C+%26+crazy+ideas" alt="footer"/>
 
 </div>
 
