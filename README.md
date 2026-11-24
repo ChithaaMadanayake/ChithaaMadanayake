@@ -175,16 +175,6 @@ A modern budgeting app with a sleek, intuitive interface.
 <tr>
 <td width="50%" valign="top">
 
-### 🎶 [MelooMood](https://drive.google.com/file/d/1V7KVcRNqub8l880Rp_IryKSuv-kllus-/view)
-![](https://img.shields.io/badge/RANK-A-7928ca?style=flat-square&labelColor=0b0a1a) ![](https://img.shields.io/badge/TYPE-AI-00e5ff?style=flat-square&labelColor=0b0a1a)
-
-A mood-based playlist generator powered by **emotion detection**.
-
-![](https://img.shields.io/badge/AI-0b0a1a?style=flat-square&logo=openai&logoColor=00e5ff) ![](https://img.shields.io/badge/Web-0b0a1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🖥️ [Supra Marketing Web](https://www.linkedin.com/feed/update/urn:li:activity:7321896235160735744/)
 ![](https://img.shields.io/badge/RANK-B-3b3b6b?style=flat-square&labelColor=0b0a1a) ![](https://img.shields.io/badge/TYPE-CLIENT-ffb86c?style=flat-square&labelColor=0b0a1a)
 
