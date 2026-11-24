@@ -173,16 +173,6 @@ A modern budgeting app with a sleek, intuitive interface.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🖥️ [Supra Marketing Web](https://www.linkedin.com/feed/update/urn:li:activity:7321896235160735744/)
-![](https://img.shields.io/badge/RANK-B-3b3b6b?style=flat-square&labelColor=0b0a1a) ![](https://img.shields.io/badge/TYPE-CLIENT-ffb86c?style=flat-square&labelColor=0b0a1a)
-
-A business-ready, fully responsive marketing website.
-
-![](https://img.shields.io/badge/HTML5-0b0a1a?style=flat-square&logo=html5&logoColor=E34F26) ![](https://img.shields.io/badge/CSS3-0b0a1a?style=flat-square&logo=css3&logoColor=1572B6) ![](https://img.shields.io/badge/JS-0b0a1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
-
-</td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
