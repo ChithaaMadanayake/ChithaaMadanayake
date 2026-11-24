@@ -15,8 +15,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=ChithaaMadanayake&label=VISITORS&color=ff2e97&labelColor=0b0a1a&style=for-the-badge" alt="views"/>
-<img src="https://img.shields.io/github/followers/ChithaaMadanayake?label=ALLIES&style=for-the-badge&color=7928ca&labelColor=0b0a1a&logo=github&logoColor=white" alt="followers"/>
-<img src="https://img.shields.io/github/stars/ChithaaMadanayake?label=STARS&style=for-the-badge&color=00e5ff&labelColor=0b0a1a&logo=github&logoColor=white" alt="stars"/>
 
 </div>
 
