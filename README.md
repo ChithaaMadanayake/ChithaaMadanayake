@@ -1,9 +1,9 @@
-<!-- ═══════════ CHITHAA // NEON DUSK · PLAYER ONE PROFILE ═══════════ -->
+<!-- ═══════════ MATRIX / CYBER-TERMINAL THEME ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0a1a,35:7928ca,70:ff2e97,100:ffb86c&height=280&section=header&text=CHITHAA%20MADANAYAKE&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9C%A6%20DESIGNER%20%C2%B7%20DEVELOPER%20%C2%B7%20ETHICAL%20HACKER%20%E2%9C%A6&descSize=17&descColor=ffe9f5&descAlignY=58" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:003b12,100:00ff41&height=240&section=header&text=CHITHAA%20MADANAYAKE&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=36&desc=%5B%20FRONTEND%20%E2%80%A2%20CYBERSECURITY%20%E2%80%A2%20DESIGN%20%5D&descSize=16&descColor=c9d1d9&descAlignY=58" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=900&color=00E5FF&background=00000000&center=true&vCenter=true&width=820&height=50&lines=PLAYER+ONE+HAS+ENTERED+THE+GAME;I+design+it.+I+build+it.+I+try+to+break+it.;Self-taught.+Curious.+Level+%E2%88%9E;Making+interfaces+that+feel+human;Pixels+by+day.+Packets+by+night." alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=760&height=50&lines=%3E+initializing+chithaa.exe+...;%3E+Hi+there!+I'm+Chithaa+%E2%9C%8B;%3E+I+build+apps+that+feel+human+and+stay+safe;%3E+Frontend+Dev+%7C+UI%2FUX+%7C+Ethical+Hacker;%3E+I+don't+believe+in+limits.+I+debug+and+dream." alt="typing"/>
 
 <br/><br/>
 
