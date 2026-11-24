@@ -84,7 +84,7 @@ const chithaa = {
   },
   currentlyLearning: ["Secure coding", "Networking", "Linux internals"],
   weekend: "drawing digital art & UI concepts",
-  openTo: ["collabs", "internships", "big ideas"],
+  openTo: ["collabs", "big ideas"],
 };
 
 while (alive) {
