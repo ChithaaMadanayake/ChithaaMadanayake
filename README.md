@@ -47,7 +47,6 @@ Logic + aesthetic. Code + art. Offence + defence.
 - 🎨 Building sleek UIs with **React + Tailwind**
 - 📱 Shipping mobile apps with **React Native**
 - 🔐 Levelling up on **TryHackMe**
-- 🖌️ Drawing digital art & UI on weekends
 
 </td>
 </tr>
