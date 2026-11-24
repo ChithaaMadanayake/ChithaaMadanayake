@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:110126,100:dac2ed&height=240&section=header&text=CHITHAA%20MADANAYAKE&fontSize=50&fontColor=d000ff&animation=twinkling&fontAlignY=36&desc=%5B%20FRONTEND%20%E2%80%A2%20CYBERSECURITY%20%E2%80%A2%20DESIGN%20%5D&descSize=16&descColor=c9d1d9&descAlignY=58" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=#150124&background=00000000&center=true&vCenter=true&width=760&height=50&lines=%3E+initializing+chithaa.exe+...;%3E+Hi+there!+I'm+Chithaa+%E2%9C%8B;%3E+I+build+apps+that+feel+human+and+stay+safe;%3E+Frontend+Dev+%7C+UI%2FUX+%7C+Ethical+Hacker;%3E+I+don't+believe+in+limits.+I+debug+and+dream." alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=150124&background=00000000&center=true&vCenter=true&width=760&height=50&lines=%3E+initializing+chithaa.exe+...;%3E+Hi+there!+I'm+Chithaa+%E2%9C%8B;%3E+I+build+apps+that+feel+human+and+stay+safe;%3E+Frontend+Dev+%7C+UI%2FUX+%7C+Ethical+Hacker;%3E+I+don't+believe+in+limits.+I+debug+and+dream." alt="typing"/>
 
 <br/><br/>
 
